@@ -268,7 +268,7 @@ Canvas N is created to build an art-investment platform that offers a unique exp
  ##  Project document
  
  * ### 1. Whitepaper
-  [White Paper](http://canvasn.io/download/Whitepaper_Gallery%20Coin_en.pdf)
+   [White Paper](http://canvasn.io/download/Whitepaper_Gallery%20Coin_en.pdf)
 
  * ### 2. Audit
    [Audit](https://www.slowmist.com/security-audit-certificate.html?id=d71bceb13e3e0985d5b4bfcc84f0ed2a346c09fc092fc86d740701c0b6e0746c)
