@@ -19,7 +19,10 @@
       * 2. Metaverse Gallery
       * 3. NFT Minting / NFT Marketplace
 
-   * 5. Project Contents  
+   * 5. Project document
+     * 1. White paper
+     * 2. Audit
+     * 3. Canvas N Inventory List 
      
 
  ## Project information
@@ -260,7 +263,17 @@ Canvas N is created to build an art-investment platform that offers a unique exp
 
 9. Discovering and promoting rising artists.
 
-10. Donation to strengthen culture and art. 
+10. Donation to strengthen culture and art.
 
+ ##  Project document
+ * ### 1. White paper
+  [White Paper](http://canvasn.io/download/Whitepaper_Gallery%20Coin_en.pdf)
+
+ * ### 2. Audit
+   [Audit]()
+ * ### 3. Canvas N Inventory List
+   [Canvas N Inventory List](http://canvasn.io/download/canvas_list.pdf)
+
+    
 
 -->
