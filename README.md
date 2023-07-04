@@ -11,11 +11,15 @@
        * 2. Advisor
 
    * 3. Token Utility
-       * Token Allocation and Distribution
+       * 1. Token Allocation and Distribution
+       * 2. Token Economy
+   
    * 4. Project Contents
       * 1. Digital Guarantee Service: Artwork NFT Certificate
       * 2. Metaverse Gallery
       * 3. NFT Minting / NFT Marketplace
+
+   * 5. Project Contents  
      
 
  ## Project information
@@ -149,7 +153,22 @@ GalleryCoin possesses immense utility within the expansive art ecosystem of Canv
    Charity|100,000,000|5.0%|-|Vesting for 60 Months|
    Reserve|100,000,000|5.0%|6 Months|Vesting for 24 Months|
    **Total Issue**|**2,000,000,000**|**100.0%**|
-  
+
+ * ### Token Economy
+   
+The art market has continued to rise in value over more than a thousand years
+since the Middle Ages in Europe, and it has been shown that the profit structures of
+participants are changing in a variety of ways.
+The variety of this profit structure will be reflected in the token economy that GalleryCoin
+plans to create. The greatest variety of art, from traditional artworks to future-focused Art
+NFT is offered by the Canvas N art ecosystem. Additionally, by luring diverse market
+participants, from standard art transactions to blockchain-based payment mechanisms
+like metaverse, we are creating a token ecosystem. The growth of galleries, artists, NFT
+teams, and collectors will coincide with the expansion of the art market in the transparent
+token economy of GalleryCoin.
+These are the key components of GalleryCoin, the reason for allocation, and the usage
+strategy.
+   
    
  ##  Project Contents
 
