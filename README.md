@@ -266,7 +266,8 @@ Canvas N is created to build an art-investment platform that offers a unique exp
 10. Donation to strengthen culture and art.
 
  ##  Project document
- * ### 1. White paper
+ 
+ * ### 1. Whitepaper
   [White Paper](http://canvasn.io/download/Whitepaper_Gallery%20Coin_en.pdf)
 
  * ### 2. Audit
