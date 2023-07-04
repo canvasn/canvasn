@@ -6,16 +6,18 @@
        * 2. Project page
        * 3. Project roadmap
             
-  * 2.Project member
+  * 2. Project member
        * 1 .Core member
        * 2. advisor
 
-   * 3.Token Utility
-   * 4.Project Contents
+   * 3. Token Utility
+       * Token Allocation and Distribution
+   * 4. Project Contents
       * 1. Digital Guarantee Service: Artwork NFT Certificate
       * 2. Metaverse Gallery
       * 3. NFT Minting / NFT Marketplace
      
+
 - project name: GalleryCoin
 
 - industry of the project. 
@@ -126,6 +128,26 @@ GalleryCoin possesses immense utility within the expansive art ecosystem of Canv
 
 5) GalleryCoin offers specialized curating and art tours.
 
+   **Token Allocation and Distribution**
+   
+   Groups|Token amount|Portion|Lock-up|Vesting Plan
+   ---|---|---|---|---|
+   Seed Sale|20,000,000|1.0%|-|-|
+   Private Sale|20,000,000|1.0%|3 Months|Vesting for 6 months|
+   Strategic Sale|8,000,000|0.4%|3 Months|Vesting for 18 Months|
+   Public Sale|20,000,000|1.0%|-|Vesting for 36 Months|
+   Team|200,000,000|10.0%|24 Months|Vesting for 24 Months|
+   Advisor|100,000,000|5,0%|24 Months|Vesting for 24 Months|
+   Ecosystem|300,000,000|15.0%|6 Months|Vesting for 36 Months|
+   Liquidity|200,000,000|10.0%|-|Vesting for 12 Months|
+   Marketing|200,000,000|10.0%|-|Vesting for 12 Months|
+   Platform|600,000,000|30.0%|24 Months|Vesting for 60 Months|
+   MilkomedaN Owners|132,000,000|6.6%|1 Months|Vesting for 6 Months|
+   Charity|100,000,000|5.0%|-|Vesting for 60 Months|
+   Reserve|100,000,000|5.0%|6 Months|Vesting for 24 Months|
+   **Total Issue**|**2,000,000,000**|**100.0%**|
+  
+   
 **- Project Contents**
 
 Although it is easier for ordinary people to access the art market than before, the barriers to entry are still higher than in other markets.
