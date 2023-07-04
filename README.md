@@ -1,5 +1,21 @@
 ## GalleryCoin
 
+* Index
+  * 1. Project information
+       * 1. Industry of the project
+       * 2. Project page
+       * 3. Project roadmap
+            
+  * 2.Project member
+       * 1 .Core member
+       * 2. advisor
+
+   * 3.Token Utility
+   * 4.Project Contents
+      * 1. Digital Guarantee Service: Artwork NFT Certificate
+      * 2. Metaverse Gallery
+      * 3. NFT Minting / NFT Marketplace
+     
 - project name: GalleryCoin
 
 - industry of the project. 
@@ -12,7 +28,7 @@ CANVASN GALLERY PTE LTD plans to create a new platform ecosystem based on art ma
 4. [Milkomeda N](https://milkomedan.io/)
 5. [Gallery](http://www.canvasn.net/)
 
-**- Project roadmap**
+### Project roadmap
 2022 1Q
 - The new market ecosystem for the merging of the art industry with blockchain technology is the Canvas N ecosystem initiative.
 - Canvas N platform, Milkomeda N project, Offline gallery, and GalleryCoin (GLR) Plans.
@@ -111,6 +127,7 @@ GalleryCoin possesses immense utility within the expansive art ecosystem of Canv
 5) GalleryCoin offers specialized curating and art tours.
 
 **- Project Contents**
+
 Although it is easier for ordinary people to access the art market than before, the barriers to entry are still higher than in other markets.
 In addition, problems such as risks to counterfeit art piece and opaque distribution processes occur frequently.
 
@@ -156,7 +173,7 @@ Canvas N curators can offer specialized curatorial services.
 Users can also take advantage of the manufacturing and consumption aspects of the 
 GalleryCoin token economy in the metaverse.
 
-3.** NFT Minting / NFT Marketplace**
+**3. NFT Minting / NFT Marketplace**
 
 Based on their expertise in managing a variety of NFT projects, Canvas N which had the 
 experience of issuing Milkomeda N offers consulting services to clients who directly issue 
