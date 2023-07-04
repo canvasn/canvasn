@@ -1,14 +1,14 @@
 ## GalleryCoin
 
-* Index
+* ## Index
   * 1. Project information
        * 1. Industry of the project
        * 2. Project page
        * 3. Project roadmap
             
   * 2. Project member
-       * 1 .Core member
-       * 2. advisor
+       * 1. Core member
+       * 2. Advisor
 
    * 3. Token Utility
        * Token Allocation and Distribution
@@ -18,26 +18,28 @@
       * 3. NFT Minting / NFT Marketplace
      
 
-- project name: GalleryCoin
+ ## Project information
+ 
+ project name: GalleryCoin
 
-- industry of the project. 
+* ### industry of the project. 
 CANVASN GALLERY PTE LTD plans to create a new platform ecosystem based on art market knowledge, satisfying buyers, artists, and galleries through art transactions, auctions, exhibitions, and meta-verse galleries. Hope to make an impact on the trends of contemporary art by reflecting the current trends and providing opportunities for diverse consumers to discover and enjoy art, as well as for promising artists and galleries to enter the art market. We aim to enable more people to discover and appreciate art, while also fostering the growth of talented artists and galleries. To achieve this, Utilize the Canvas N platform and GLR (GalleryCoin) ecosystem to promote the growth and development of both the NFT market and the domestic and international art markets. We aim to contribute to the advancement of the art market by leveraging these tools to foster growth and innovation in the industry.
 
-### Project page
+* ### Project page
 1. [GalleryCoin](http://canvasn.io/)
 2. [Platform](https://canvasn.co.kr/)
 3. [Marketplace](https://canvasnft.co.kr/)
 4. [Milkomeda N](https://milkomedan.io/)
 5. [Gallery](http://www.canvasn.net/)
 
-### Project roadmap
-2022 1Q
+* ### Project roadmap
+**2022 1Q**
 - The new market ecosystem for the merging of the art industry with blockchain technology is the Canvas N ecosystem initiative.
 - Canvas N platform, Milkomeda N project, Offline gallery, and GalleryCoin (GLR) Plans.
 - The first large-scale project in Korea to incorporate actual art and NFT
 - Partnership with a variety of companies and professionals from the Korean Art Community.
 
-2022 2Q
+**2022 2Q**
 - Canvas N Platform Development Begins (1.3 billion won in Platform Construction Costs)
 - Work with leading blockchain companies to launch Canvas N platform development
 - Planning by Milkomeda N Project (High-quality video, webtoon, and character production with a content cost investment of 1.1 billion won)
@@ -45,37 +47,38 @@ CANVASN GALLERY PTE LTD plans to create a new platform ecosystem based on art ma
 - With the leading company in VFX globally, making webtoons and videos with original plots and vibrant colors
 - influencers from Various Industries Participating in Korea
 
-2022 3Q
+**2022 3Q**
 - Preparation to launch Milkomeda N 
 - Preparation to launch Canvas N 
 
-2022 4Q
+**2022 4Q**
 - Launch Milkomeda N 
 - Milkomeda N Minting 
 - Milkomeda N KRW Delivery
 - Launch Canvas N (Beta Ver.)
 - Milkomeda N special collaboration
 
-2023 1Q
+**2023 1Q**
 - Officially Launch Canvas N
 -  Foreign Listing for GalleryCoin
 
-2023 2Q
+**2023 2Q**
 - Open Canvas N Gangnam Offline Gallery 
 - Development for Canvas N Extensions
 
-2023 3Q
+**2023 3Q**
 - Canvas N Partnership Improvement
 - Preparation for Canvas N Offline-connected System 
 - Domestic Listing for GalleryCoin 
 - Online, Offline platform activation
 
-2023 4Q
+**2023 4Q**
 - Online, Offline platform activation
 - Domestic additional Listing for GalleryCoin
 
+## Project Member
 
-**- Project core member**
+* ### Project core member
 
 Name: Jang hyunwoo Academic ability: Received Bachelor of Advertising and Public Relations at Chung-Ang University
 Current:
@@ -96,7 +99,7 @@ Past:
 - Taemyung Furniture Company
 Linkedin: www.linkedin.com/in/canvasngallery
 
-**-Project advisor**
+* ### Project advisor
 
 Name: Kim Doyeon
 Brief History:
@@ -112,7 +115,7 @@ Brief History:
 - Possession of a number of patent items
 Linkedin: www.linkedin.com/in/canvasncto
 
-**- Token utility**
+ ##  Token utility
 
 GalleryCoin is a token-based cryptocurrency designed to be used under optimal conditions in the pure art and NFT art services provided by the core platform of the project, Canvas N. It is designed to facilitate transactions and interactions within the Canvas N ecosystem, offering a convenient and efficient means of exchange for art-related services and transactions.
 Strength, Business/Technical highlight
@@ -128,7 +131,7 @@ GalleryCoin possesses immense utility within the expansive art ecosystem of Canv
 
 5) GalleryCoin offers specialized curating and art tours.
 
-   **Token Allocation and Distribution**
+  * ### Token Allocation and Distribution
    
    Groups|Token amount|Portion|Lock-up|Vesting Plan
    ---|---|---|---|---|
@@ -148,7 +151,8 @@ GalleryCoin possesses immense utility within the expansive art ecosystem of Canv
    **Total Issue**|**2,000,000,000**|**100.0%**|
   
    
-**- Project Contents**
+ ##  Project Contents
+
 
 Although it is easier for ordinary people to access the art market than before, the barriers to entry are still higher than in other markets.
 In addition, problems such as risks to counterfeit art piece and opaque distribution processes occur frequently.
@@ -156,7 +160,7 @@ In addition, problems such as risks to counterfeit art piece and opaque distribu
 To solve these problems, we developed the art distribution process by combining it with the Blockchain system.
 Canvas N combines the blockchain with the art market as follows.
 
-**1. Digital Guarantee Service: Artwork NFT Certificate**
+ * ### 1. Digital Guarantee Service: Artwork NFT Certificate
 
 Presently, issues with tax evasion or the concealment of criminal funds in the art 
 distribution process are also worsening public awareness of art transactions and eroding 
@@ -172,7 +176,7 @@ records. Canvas N supports NFT certificates as well as physical artwork guarante
 trading art. Subsequently, you can check the authenticity, provenance, and transaction 
 history within the platform through the blockchain book recorded in the NFT certificate
 
-**2. Metaverse Gallery**
+ * ### 2. Metaverse Gallery
 
 Users of the platform can enjoy exhibitions in metaverse galleries by Canvas N. The 
 Canvas N Metaverse enables NFT art exhibitions, and rental services in addition to 
@@ -195,7 +199,7 @@ Canvas N curators can offer specialized curatorial services.
 Users can also take advantage of the manufacturing and consumption aspects of the 
 GalleryCoin token economy in the metaverse.
 
-**3. NFT Minting / NFT Marketplace**
+ * ### 3. NFT Minting / NFT Marketplace
 
 Based on their expertise in managing a variety of NFT projects, Canvas N which had the 
 experience of issuing Milkomeda N offers consulting services to clients who directly issue 
