@@ -1,6 +1,7 @@
+## GalleryCoin
 
 
-<!--
+
 **canvasn/canvasn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -203,7 +204,6 @@ Canvas N is created to build an art-investment platform that offers a unique exp
 9. Discovering and promoting rising artists.
 
 10. Donation to strengthen culture and art. 
-
 
 
 -->
